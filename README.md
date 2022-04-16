@@ -5,7 +5,7 @@ Click vào dòng Deploy để tạo
 🖲️🖲️🖲️🖲️
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mienphi4g/mienphi4G)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mienphi4g/4G-VMESS)
 
 
 •ADDRESS:NHẬP TÊN APP BẠN ĐÃ TẠO *LƯU Ý XÓA DẤU HTTPS:// VÀ / của app
